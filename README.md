@@ -4,12 +4,12 @@ Base docker image based on Ubuntu, with Java 8 (openjdk) and Python 3 (with `pip
 ## Usage
 Get the image:
 ```
-docker pull korekontrol/ubuntu-java-python3
+docker pull wgq0335/ubuntu-java-python3
 ```
 
 Use it in `Dockerfile`:
 ```
-FROM korekontrol/ubuntu-java-python3
+FROM wgq0335/ubuntu-java-python3
 ```
 
 ## Credits
